@@ -1,17 +1,0 @@
-
-r
-java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(£µŒN8®âÓê/
-^
-java:S1854"<Remove this useless assignment to local variable "myMapTre".(ø™ø†ûÿÿÿÿ8¾âÓê/
-f
-java:S4143"DVerify this is the key that was intended; it was already set before.(ª„ÿËùÿÿÿÿ8ÎâÓê/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ÙâÓê/
-[
-java:S1612"?Replace this lambda with method reference 'Collection::stream'.(ª÷˜8æâÓê/
-b
-java:S1612"@Replace this lambda with method reference 'String::toLowerCase'.(ÏˆŠüÿÿÿÿ8îâÓê/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8øâÓê/
-O
-java:S1481"-Remove this unused "myMapTre" local variable.(ø™ø†ûÿÿÿÿ8…ãÓê/
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‰ãÓê/

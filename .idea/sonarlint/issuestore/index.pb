@@ -1,10 +1,6 @@
 
-Z
-*src/main/java/lamda/MapsTestVsFlatMap.java,b/4/b44caa26eba160ae7dd9c5c41daddf65a777dd8e
 c
 3src/main/java/effectiveJava/ch1/NutritionFacts.java,3/2/32997e728e1b5f44f2a19a967e8c04f3dc08edf9
-U
-%src/main/java/effectiveJava/Main.java,f/6/f65637362aa1c4cff5fb8f4d118bdcda6d257fd0
 U
 %src/main/java/oop/interfaces/III.java,e/c/ec50053d3fa9f51bf2bc7fd494728b06caf05b90
 Y
@@ -21,3 +17,19 @@ w
 Gsrc/main/java/designs_paterrns/singletone/LazyInitializedSingleton.java,2/6/2604c10937b166248802884f7c93fb9802746784
 s
 Csrc/main/java/designs_paterrns/singletone/StaticBlockSingleton.java,8/7/874ab3e089f071f9093fa974d5719d3171aa820d
+q
+Asrc/test/java/designs_paterrns/singletone/DesignPatternsTest.java,d/c/dc3c7551613b6e64567588598c55663111308c70
+h
+8src/main/java/designs_paterrns/factory/ComputerType.java,e/d/ede4fec52207ae47a3096fff43a5abe9fe259ff1
+d
+4src/main/java/designs_paterrns/factory/Computer.java,9/6/969fc888e11ed6622df71223e920d31c921028bc
+l
+<src/main/java/designs_paterrns/singletone/EnumSingleton.java,9/9/99a1c09ff07c8bf320f27f8b97d10d71183edfec
+b
+2src/main/java/designs_paterrns/factory/Server.java,e/c/ecd5dc5ac3a9c4f5cbd5cb92182df4b49383102e
+^
+.src/main/java/designs_paterrns/factory/PC.java,f/1/f157e91763aff9f6f7100f5f7d0092b256a4343a
+p
+@src/main/java/designs_paterrns/singletone/BillPughSingleton.java,6/2/625e0cde08290cb81da67ca96f3b0c82cd4b2482
+r
+Bsrc/main/java/designs_paterrns/singletone/ThreadSafeSingleton.java,4/f/4fe9e223131a689acc67904b46c6045f209a3bb9
